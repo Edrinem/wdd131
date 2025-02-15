@@ -5,8 +5,8 @@
         justify-content: center;
     }
 
-    .temples-container {
-        grid-template-columns: repeat(3, 1fr,1fr);
+    .gallery {
+        grid-template-columns: repeat(3, 1fr);
     }
 
     #menu-toggle {
